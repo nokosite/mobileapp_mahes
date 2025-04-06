@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "mobileapp_mahes",
+    "slug": "mobileapp_mahes",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
