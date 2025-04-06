@@ -9,7 +9,7 @@ export default function App() {
         alignItems: "center",
       }}
     >
-      <Text>Universal React with Expo</Text>
+      <Text>Universal 12132React with Expo</Text>
     </View>
   );
 }
